@@ -1,0 +1,14 @@
+.partners-container{
+    width: 100%;
+    padding: 50px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &>div{
+        text-align: center;
+        img{
+            width: 55%;
+        }
+    }
+}

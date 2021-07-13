@@ -1,0 +1,15 @@
+.slogan-text-container{
+    text-align: center;
+    font-size: 35px;
+    line-height: 35px;
+    @media (max-width: 998px) AND (min-width: 768px){
+        padding: 50px;
+        line-height: 50px;
+    }
+    .slogan-text{
+        .slogan-text-bold{
+            font-weight: 700;
+        }
+
+    }
+}
